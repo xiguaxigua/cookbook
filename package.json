@@ -1,0 +1,24 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiguaxigua/cookbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiguaxigua/cookbook/issues"
+  },
+  "homepage": "https://github.com/xiguaxigua/cookbook#readme",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
