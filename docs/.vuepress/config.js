@@ -21,6 +21,7 @@ module.exports = {
     sidebar,
     lastUpdated: '最后更新时间',
     repo: 'xiguaxigua/cookbook',
+    docsDir: 'docs',
     editLinks: true,
     editLinkText: '修改此页面'
   }
