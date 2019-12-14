@@ -16,12 +16,12 @@ module.exports = {
   head: [
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }]
   ],
-  editLinks: true,
-  editLinkText: '修改此页面',
   themeConfig: {
     logo: '/logo.png',
     sidebar,
     lastUpdated: '最后更新时间',
     repo: 'xiguaxigua/cookbook',
+    editLinks: true,
+    editLinkText: '修改此页面'
   }
 }
